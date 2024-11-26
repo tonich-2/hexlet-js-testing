@@ -1,1 +1,1 @@
-This directory is for Hexlet JS Testing course exercises.
+This directory is for the Hexlet JS Testing course exercises.
